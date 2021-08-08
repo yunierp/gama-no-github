@@ -1,0 +1,1 @@
+Eu estou achando o curso legal. O git é muito útil e eu sempre quis entender como usá-lo.
